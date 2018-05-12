@@ -1,0 +1,27 @@
+_repo: Archaic-EnglandFaerie-Superstitions_41785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bayley, Harold
+    gutenberg_agent_id: '41363'
+    url: http://www.gutenberg.org/2009/agents/41363
+description: ''
+gutenberg_issued: '2013-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41785'
+  lccn: '20011405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Antiquities'
+- !lcsh 'Archaeology'
+- !lcc 'DA'
+title: "Archaic England\r\nAn Essay in Deciphering Prehistory from Megalithic Monuments,\
+  \ Earthworks, Customs, Coins, Place-names, and Faerie Superstitions"
+url: http://www.gutenberg.org/ebooks/41785
